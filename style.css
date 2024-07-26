@@ -1,0 +1,27 @@
+body{
+    background-color: #ccffff;
+    font-family: Verdana, Geneva, sans-serif;
+}
+div{
+    background-color: #ccffff;
+    margin:auto;
+    width: 500px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+img{
+    max-block-size: 300px;
+    margin: auto;
+    padding: 25px;
+    border: lightskyblue dashed 3px;
+   color:#f6f6f6;
+    background-color: ivory;
+}
+table{
+    background-color: ivory;
+    padding: 25px;
+    border: lightskyblue dashed 3px;
+}
+a{
+    color: black;
+}
